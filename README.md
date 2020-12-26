@@ -5,7 +5,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
 ![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
-**Updated version of this application can be found at:** https://github.com/kishan0725/The-Movie-Cinema
+**Updated version of this application can be found at:** https://github.com/Love4684/Movie-Recommendation-System
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
@@ -25,11 +25,10 @@ Link to "The Movie Cinema" application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Code: https://github.com/kishan0725/The-Movie-Cinema
+Source Code: https://github.com/Love4684/Movie-Recommendation-System
 
-## Featured in Krish's Live Session on YouTube
 
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
+
 
 ## How to get the API key?
 
@@ -37,7 +36,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 ## How to run the project?
 
-1. Install all the libraries mentioned in the [requirements.txt](https://github.com/kishan0725/Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/requirements.txt) file.
+1. Install all the libraries mentioned in the [requirements.txt](https://github.com/Love4684/Movie-Recommendation-System/blob/master/requirements.txt) file.
 2. Clone this repository in your local system.
 3. Replace YOUR_API_KEY in the `static/recommend.js` file.
 4. Open the command prompt from your project directory and run the command `python main.py`.
